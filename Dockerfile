@@ -1,4 +1,4 @@
-FROM maven:3.2-jdk-6
+FROM maven:3.2-jdk-7
 MAINTAINER Benedikt Stegmaier <dev@bstegmaier.de>
 # Dockerfile originally based on Edouard Oger's eoger/brouter:onbuild
 
